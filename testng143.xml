@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite22">
+  <test name="Test22">
+    <classes>
+      <class name="time.testing1234"/>
+    </classes>
+  </test> <!-- Test22 -->
+</suite> <!-- Suite22 -->
